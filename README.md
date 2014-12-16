@@ -1,4 +1,4 @@
 HarpreetRepository
 ==================
 
-This is a test repository
+This repository for the training organized by Aaron.
